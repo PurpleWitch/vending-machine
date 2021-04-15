@@ -8,6 +8,7 @@ import Candy from './components/snacks/candy';
 import Keypad from './components/keypad/keypad';
 import Balance from './components/change/balance';
 
+
 class App extends Component{
 render() {
   return (
