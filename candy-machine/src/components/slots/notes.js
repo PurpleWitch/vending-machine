@@ -1,3 +1,4 @@
+import "./notes.css"
 import { Component } from 'react';
 
 class Notes extends Component{
