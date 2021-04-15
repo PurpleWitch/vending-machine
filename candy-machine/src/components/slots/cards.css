@@ -1,0 +1,23 @@
+.credit-card{
+    position: absolute;
+    z-index: 10;
+    width:6vw;
+    height:10vh;
+}
+.credit-card:hover{
+    background-color: cyan;
+}
+.credit-card:active{
+    background-color: turquoise;
+}
+.card-money{
+    position: absolute;
+    z-index: 10;
+    font-size:3vh;
+    background-color: silver;
+    border:1px white solid;
+    border-radius: 12px;
+    outline: none;
+    text-align: center;
+    width:7vw;
+}
