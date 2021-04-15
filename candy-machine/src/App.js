@@ -1,10 +1,8 @@
 import "./App.css"
 import { Component } from 'react';
-import Cards from './components/slots/cards';
-import Coins from './components/slots/coins';
-import Notes from './components/slots/notes';
-import Snacks from './components/snacks/snacks';
+import Slots from './components/slots/slots';
 import Candy from './components/snacks/candy';
+import Snacks from './components/snacks/snacks';
 import Keypad from './components/keypad/keypad';
 
 
@@ -14,10 +12,8 @@ render() {
     <>
     <Snacks />
     <Candy />
-    <Cards />
-    <Coins />
-    <Notes />
     <Keypad />
+    <Slots />
     </>
   );
 }}

@@ -1,0 +1,58 @@
+.credit-card{
+    position: absolute;
+    z-index: 10;
+    width:6vw;
+    height:10vh;
+}
+.credit-card:hover{
+    background-color: cyan;
+}
+.credit-card:active{
+    background-color: turquoise;
+}
+.card-money{
+    position: absolute;
+    z-index: 10;
+    font-size:3vh;
+    background-color: silver;
+    border:1px white solid;
+    border-radius: 12px;
+    outline: none;
+    text-align: center;
+    width:7vw;
+}
+.paper-money{
+    position: absolute;
+    z-index: 10;
+    width:10vw;
+    height:10vh;
+}
+.paper-money:hover{
+    border:3px solid cyan;
+}
+.paper-money:active{
+    border:3px solid turquoise;
+}
+.coin-money{
+    position: absolute;
+    z-index: 10;
+    width:8vw;
+    height:10vh;
+}
+.coin-money:hover{
+    background-color:  cyan;
+}
+.coin-money:active{
+    background-color:  turquoise;
+}
+.input-money{
+    position: absolute;
+    z-index: 10;
+    font-size:3vh;
+    background-color: silver;
+    border:1px white solid;
+    border-radius: 12px;
+    outline: none;
+    text-align: center;
+    width:7vw;
+}
