@@ -7,6 +7,7 @@ import Snacks from './components/snacks/snacks';
 import Candy from './components/snacks/candy';
 import Keypad from './components/keypad/keypad';
 
+
 class App extends Component{
 render() {
   return (
