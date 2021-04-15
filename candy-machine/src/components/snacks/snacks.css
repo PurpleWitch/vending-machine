@@ -1,0 +1,9 @@
+.vending-items{
+    margin-left: 20vw;
+    width: 60vw;
+    height: 7vh;
+}
+.vending-shelf{
+    height:30vh;
+    width: 100%;
+}
