@@ -1,0 +1,13 @@
+.candy-item{
+    position: absolute;
+    z-index: 10;
+    width:4vw;
+    height:10vh;
+}
+.candy-label{
+    position: absolute;
+    z-index: 10;
+    font-size:3vh;
+    background-color: silver;
+    border:1px white solid;
+}
