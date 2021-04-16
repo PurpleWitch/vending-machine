@@ -44,7 +44,7 @@ render() {
     <>
     {/* credit card */}
     <img className="credit-card" style={{left:"6vw",top:"10vh"}} src="https://s31168.pcdn.co/wp-content/uploads/2020/09/compare-cards-everyday-elite.png" alt="credit card" onClick={this.addCard}/>
-    <input type="number" className="card-money" style={{left:"5vw",top:"23vh"}} onChange={()=>this.setState({cardMoney:this.value})} />
+    <input type="number" className="card-money" style={{left:"5vw",top:"23vh"}} onChange={(e)=>this.setState({cardMoney:Number(e.target.value)})} />
     
     {/* paper money */}
     <img className="paper-money" style={{left:"4vw",top:"30vh"}} src="https://cdn.shortpixel.ai/client2/q_lossless,ret_img,w_563,h_243/https://www.papermoneywanted.com/images/2009-fifty-dollar-federal-reserve-notes.png" alt="fifty dollars" onClick={this.addFiftyDollars}/>
