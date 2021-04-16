@@ -29,12 +29,12 @@ render() {
     <img className="candy-item" id="21" style={{left:"27vw",top:"15vh"}} src="http://static1.squarespace.com/static/5ca3b2217980b3338106d9bf/5e9d799f49f74c43e7d4d9e2/5e8c709317a9377ba007b6af/1592901778463/Coca+Cola+300ml+Can.png?format=1500w" alt="candy item"/>
     <img className="candy-item" id="22" style={{left:"34vw",top:"15vh"}} src="https://www.mobicool.com/ui/productimages/98/13/dometic_cool-can-10_9600003942_69813_11.png?mw=580&mh=580&hash=274C18E840DFD8E457D2387BA6F840B0" alt="candy item"/>
     <img className="candy-item" id="23" style={{left:"40vw",top:"15vh"}} src="https://terroirs.co/wp-content/uploads/2016/09/p_7_7_5_775-Sprite-can-33cL.jpg" alt="candy item"/>
-    <img className="candy-item" id="24" style={{left:"45vw",top:"15vh"}} src="https://lh3.googleusercontent.com/proxy/-rxEwTJXR7myCkZvi0oY_mMqai4hA99e-vrcCrVAk27b-p6VfX8JtOyqDaxbgju37iVqHtG8ZcwPdGbNaUT8IgfEW3gYdX5xfFjE" alt="candy item"/>    
+    <img className="candy-item" id="24" style={{left:"45vw",top:"15vh"}} src="https://www.jerseymikes.com/media/static/bedrock/lg/bottled-drink.png" alt="candy item"/>    
     <img className="candy-item" id="25" style={{left:"50vw",top:"15vh"}} src="https://pizzahousealmere.nl/wp-content/uploads/2020/02/Fanta-orange-canada.png" alt="candy item"/>
     <img className="candy-item" id="26" style={{left:"56vw",top:"15vh"}} src="https://www.tingstad.com/fixed/images/Main/1550834217/36195.png" alt="candy item"/>
     <img className="candy-item" id="27" style={{left:"61vw",top:"15vh"}} src="https://www.laudinella.ch/delivery-shop/wp-content/uploads/2014/12/RedBull.png" alt="candy item"/>
     <img className="candy-item" id="28" style={{left:"67vw",top:"15vh"}} src="https://repracores.pt/wp-content/uploads/2019/10/pepsi-cola.png" alt="candy item"/>
-    <img className="candy-item" id="29" style={{left:"72vw",top:"15vh"}} src="https://lh3.googleusercontent.com/proxy/9lkl9oQcqiXZr73CxUDdXHUpPzO6FGytWuT2nVrWxy0JJLb9OfyBPRRjXPeUcnSqAqf6JXVJyl-nN-Kx5RyGKsN1h-Rlgj-Eq5zoQKBNkGQO9oTlIvbS" alt="candy item"/>    
+    <img className="candy-item" id="29" style={{left:"72vw",top:"15vh"}} src="http://assets.stickpng.com/images/580b585b2edbce24c47b2780.png" alt="candy item"/>    
     
     <label className="candy-label" style={{left:"28vw",top:"25vh"}}>21</label> 
     <label className="candy-label" style={{left:"35vw",top:"25vh"}}>22</label> 
@@ -69,12 +69,12 @@ render() {
     <img className="candy-item" id="41" style={{left:"27vw",top:"45vh"}} src="http://static1.squarespace.com/static/5ca3b2217980b3338106d9bf/5e9d799f49f74c43e7d4d9e2/5e8c709317a9377ba007b6af/1592901778463/Coca+Cola+300ml+Can.png?format=1500w" alt="candy item"/>
     <img className="candy-item" id="42" style={{left:"34vw",top:"45vh"}} src="https://www.mobicool.com/ui/productimages/98/13/dometic_cool-can-10_9600003942_69813_11.png?mw=580&mh=580&hash=274C18E840DFD8E457D2387BA6F840B0" alt="candy item"/>
     <img className="candy-item" id="43" style={{left:"40vw",top:"45vh"}} src="https://terroirs.co/wp-content/uploads/2016/09/p_7_7_5_775-Sprite-can-33cL.jpg" alt="candy item"/>
-    <img className="candy-item" id="44" style={{left:"45vw",top:"45vh"}} src="https://lh3.googleusercontent.com/proxy/-rxEwTJXR7myCkZvi0oY_mMqai4hA99e-vrcCrVAk27b-p6VfX8JtOyqDaxbgju37iVqHtG8ZcwPdGbNaUT8IgfEW3gYdX5xfFjE" alt="candy item"/>    
+    <img className="candy-item" id="44" style={{left:"45vw",top:"45vh"}} src="https://www.jerseymikes.com/media/static/bedrock/lg/bottled-drink.png" alt="candy item"/>    
     <img className="candy-item" id="45" style={{left:"50vw",top:"45vh"}} src="https://pizzahousealmere.nl/wp-content/uploads/2020/02/Fanta-orange-canada.png" alt="candy item"/>
     <img className="candy-item" id="46" style={{left:"56vw",top:"45vh"}} src="https://www.tingstad.com/fixed/images/Main/1550834217/36195.png" alt="candy item"/>
     <img className="candy-item" id="47" style={{left:"61vw",top:"45vh"}} src="https://www.laudinella.ch/delivery-shop/wp-content/uploads/2014/12/RedBull.png" alt="candy item"/>
     <img className="candy-item" id="48" style={{left:"67vw",top:"45vh"}} src="https://repracores.pt/wp-content/uploads/2019/10/pepsi-cola.png" alt="candy item"/>
-    <img className="candy-item" id="49" style={{left:"72vw",top:"45vh"}} src="https://lh3.googleusercontent.com/proxy/9lkl9oQcqiXZr73CxUDdXHUpPzO6FGytWuT2nVrWxy0JJLb9OfyBPRRjXPeUcnSqAqf6JXVJyl-nN-Kx5RyGKsN1h-Rlgj-Eq5zoQKBNkGQO9oTlIvbS" alt="candy item"/>    
+    <img className="candy-item" id="49" style={{left:"72vw",top:"45vh"}} src="http://assets.stickpng.com/images/580b585b2edbce24c47b2780.png" alt="candy item"/>    
     
     <label className="candy-label" style={{left:"28vw",top:"55vh"}}>41</label> 
     <label className="candy-label" style={{left:"35vw",top:"55vh"}}>42</label> 
